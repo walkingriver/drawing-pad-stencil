@@ -1,7 +1,7 @@
 import { Config } from '@stencil/core';
 
 export const config: Config = {
-  namespace: 'mycomponent',
+  namespace: 'wr-drawing-pad',
   outputTargets:[
     {
       type: 'dist'
